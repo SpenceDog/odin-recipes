@@ -1,0 +1,1 @@
+This is a repo for my first project as part of The Odin Project.
